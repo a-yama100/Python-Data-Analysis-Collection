@@ -20,7 +20,7 @@
 - [詳細とコード](ph_stock_prediction/)
 
 ### 4. 潜在顧客の分析 (potential_customers)
-市場のデータを分析して潜在的な顧客を特定します。
+監視カメラの動画を分析して潜在的な顧客を特定します。
 - 言語: Python 3.11.3
 - [詳細とコード](potential_customers/)
 
